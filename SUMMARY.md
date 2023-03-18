@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Hello Wolrd](README.md)
+* [日記](README.md)
